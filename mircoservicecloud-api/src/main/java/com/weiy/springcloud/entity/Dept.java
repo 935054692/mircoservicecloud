@@ -13,7 +13,7 @@ import lombok.experimental.Accessors;
 @NoArgsConstructor
 @Data
 @Accessors(chain=true)
-public class Dept implements Serializable{
+public class Dept implements Serializable{ 
 
 	private long deptno;
 	private String dname;

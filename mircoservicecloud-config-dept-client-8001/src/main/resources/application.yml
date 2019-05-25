@@ -1,0 +1,4 @@
+spring:
+  cloud:
+    config:
+      name: mircoservicecloud-config-dept-client  #需要从github上读取的资源名称，注意没有yml后缀
